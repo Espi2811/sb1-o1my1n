@@ -204,7 +204,7 @@ const s = spring({frame, fps, config: {damping: 200}}); // sans rebond
 | **Editframe agent skills** | `editframe-motion-design` | Principes d'animation |
 | **Tella skills** (`/cut-video`, `/clipify`) | Montage de rushes existants | Remotion = motion généré ; Tella = footage réel |
 
-⚠️ Je n'ai **pas** téléchargé ni redistribué ces skills tiers (licences variables, code non audité). Le dossier `skills/montage-ia-v2/` contient une **synthèse originale** intégrant leurs bonnes pratiques.
+⚠️ Je n'ai **pas** téléchargé ni redistribué ces skills tiers (licences variables, code non audité). Le dossier `skills/montage-ia/` contient une **synthèse originale** intégrant leurs bonnes pratiques.
 
 ---
 

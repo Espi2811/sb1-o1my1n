@@ -87,7 +87,7 @@ ffmpeg -i in.mp4 -c:v libx264 -preset slow -crf 18 -pix_fmt yuv420p -profile:v h
 # Web embed WebM
 ffmpeg -i in.mp4 -c:v libvpx-vp9 -crf 32 -b:v 0 -c:a libopus -b:a 128k web.webm
 ```
-Audio : −14 LUFS intégré, ≤ −1 dBTP (loudnorm 2 passes, voir `montage-ia-v2`).
+Audio : −14 LUFS intégré, ≤ −1 dBTP (loudnorm 2 passes, voir `montage-ia`).
 
 ## Dépannage
 | Symptôme | Cause / fix |

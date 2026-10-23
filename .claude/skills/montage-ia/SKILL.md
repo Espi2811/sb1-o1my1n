@@ -1,9 +1,9 @@
 ---
-name: montage-ia-v2
+name: montage-ia
 description: Montage vidéo assisté par IA — dérushage de face-cam, long→shorts 9:16, rétention short-form, sous-titres animés, motion design (easing, composition, safe areas), montage sur la musique, Remotion/FFmpeg, sound design, loudness, étalonnage. Utiliser pour planifier un montage, écrire des commandes FFmpeg, coder une animation Remotion, analyser une courbe de rétention ou critiquer un cut.
 ---
 
-# Montage IA v2
+# Montage IA
 
 ## Routage — lire le fichier de référence adapté AVANT d'agir
 | Tâche | Fichier |
