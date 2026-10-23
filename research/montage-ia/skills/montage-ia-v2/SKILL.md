@@ -5,6 +5,20 @@ description: Montage vidéo assisté par IA (rushes, short-form, motion design R
 
 # Montage IA v2
 
+## Routage vers les sous-skills
+| Tâche | Skill |
+|---|---|
+| Dérusher un face-cam (silences, fillers, prises) | `cut-rushes` |
+| Long → clips courts, recadrage 9:16 locuteur actif | `clip-repurpose` |
+| Structure hook/boucle/payoff d'un short | `short-form-retention` |
+| Sous-titres mot à mot animés | `captions-animees` |
+| Langage de mouvement, easing, durées | `motion-direction` |
+| Mise en page, safe areas, multi-format | `composition-cadre` |
+| Montage sur la musique, speed ramps | `beat-sync` |
+| Code Remotion, commandes FFmpeg, exports | `remotion-ffmpeg-pro` |
+
+Ce fichier garde les garde-fous transverses et la philosophie (Murch, cognition, son, étalonnage).
+
 ## 0. Garde-fous (failles connues de l'IA)
 - **Ne jamais juger le rythme, le jeu ou l'émotion sans voir les frames.** Extraire d'abord :
   ```bash
