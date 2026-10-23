@@ -5,7 +5,7 @@ description: Monter sur la musique — grille BPM→frames, offset du premier te
 
 # Beat Sync
 
-Adapté de `iart-ai/motion-design-skills/beat-sync-editing` (MIT) + compléments. Voir `../ATTRIBUTION.md`.
+Adapté de `iart-ai/motion-design-skills/beat-sync-editing` (MIT) + compléments. Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 ## 1. Spec du morceau (avant tout cut)
 - **BPM**, **fps**, **offset du temps 1** (ms), frame(s) du **drop**.

@@ -5,7 +5,7 @@ description: Sous-titres animés mot par mot (style TikTok/karaoké) à partir d
 
 # Captions animées
 
-Adapté de `iart-ai/tiktok-video-skills/caption-animation` (MIT). Voir `../ATTRIBUTION.md`.
+Adapté de `iart-ai/tiktok-video-skills/caption-animation` (MIT). Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 ## Règles d'or
 - **Timestamps mot à mot réels** (Whisper/AssemblyAI). Ne jamais répartir une phrase uniformément sur sa durée. Si on n'a que des cues par phrase → re-transcrire.

@@ -5,7 +5,7 @@ description: Direction artistique et principes du motion design — définir le 
 
 # Motion Direction
 
-Adapté de `iart-ai/motion-design-skills` : `animation-principles` + `motion-art-direction` (MIT). Voir `../ATTRIBUTION.md`.
+Adapté de `iart-ai/motion-design-skills` : `animation-principles` + `motion-art-direction` (MIT). Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 **Règle unique : définir le langage de mouvement d'abord, puis animer selon lui.** La direction, c'est surtout de la soustraction : décider ce qui ne bouge pas.
 

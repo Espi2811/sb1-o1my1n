@@ -5,7 +5,7 @@ description: Transformer une vidéo longue (podcast, interview, stream, sport, a
 
 # Clip Repurpose — long → short
 
-Adapté de `louisedesadeleer/clipify` (MIT). Voir `../ATTRIBUTION.md`.
+Adapté de `louisedesadeleer/clipify` (MIT). Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 ## Mode
 | Mode | Quand | Détection | Sous-titres |

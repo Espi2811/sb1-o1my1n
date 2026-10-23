@@ -5,7 +5,7 @@ description: Composition d'image pour motion et vidéo — grilles, point focal,
 
 # Composition & cadre
 
-Adapté de `iart-ai/motion-design-skills/shot-composition` (MIT). Voir `../ATTRIBUTION.md`.
+Adapté de `iart-ai/motion-design-skills/shot-composition` (MIT). Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 ## Grille
 - 16:9 : **12 colonnes** (divisible en 2/3/4/6) ; marges 80–120 px ; gouttières 24–32 px ; **unité de base 8 px** (8, 16, 24, 32, 48, 64).

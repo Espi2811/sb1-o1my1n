@@ -5,7 +5,7 @@ description: Structurer et monter une vidéo verticale courte (TikTok, Reels, Sh
 
 # Short-Form Retention
 
-Adapté de `iart-ai/tiktok-video-skills/short-form-video` (MIT) + recherche du compendium. Voir `../ATTRIBUTION.md`.
+Adapté de `iart-ai/tiktok-video-skills/short-form-video` (MIT) + recherche du compendium. Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 **Principe :** on monte la **courbe de rétention seconde par seconde**, pas la beauté. Un montage simple qui garde la courbe haute bat un montage léché qui perd les gens.
 

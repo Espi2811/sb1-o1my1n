@@ -5,7 +5,7 @@ description: Nettoyer un rush parlé (talking head, vlog, tuto, podcast vidéo) 
 
 # Cut Rushes — dérushage automatique de parole
 
-Adapté de `louisedesadeleer/cut-video` (MIT). Voir `../ATTRIBUTION.md`.
+Adapté de `louisedesadeleer/cut-video` (MIT). Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 ## Entrées
 - Chemin vidéo (demander s'il manque).

@@ -5,7 +5,7 @@ description: Règles de production pour vidéo programmatique Remotion et traite
 
 # Remotion + FFmpeg Pro
 
-Adapté de `remotion-dev/skills` et `digitalsamba/claude-code-video-toolkit` (skills `remotion`, `ffmpeg`) — MIT/licences respectives — + docs officielles Remotion/FFmpeg. Voir `../ATTRIBUTION.md`.
+Adapté de `remotion-dev/skills` et `digitalsamba/claude-code-video-toolkit` (skills `remotion`, `ffmpeg`) — MIT/licences respectives — + docs officielles Remotion/FFmpeg. Voir `../ATTRIBUTION.md` · point d’entrée : `../SKILL.md`.
 
 ## Remotion — workflow
 - Demande "fais une vidéo" → lancer **Studio** (`npx remotion studio`) et ouvrir la preview **avant** de construire ; la garder ouverte.

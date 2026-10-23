@@ -1,23 +1,23 @@
 ---
 name: montage-ia-v2
-description: Montage vidéo assisté par IA (rushes, short-form, motion design Remotion/FFmpeg, sound design, loudness, étalonnage). Utiliser pour planifier un montage, écrire des commandes FFmpeg, coder une animation Remotion, analyser une courbe de rétention ou critiquer un cut.
+description: Montage vidéo assisté par IA — dérushage de face-cam, long→shorts 9:16, rétention short-form, sous-titres animés, motion design (easing, composition, safe areas), montage sur la musique, Remotion/FFmpeg, sound design, loudness, étalonnage. Utiliser pour planifier un montage, écrire des commandes FFmpeg, coder une animation Remotion, analyser une courbe de rétention ou critiquer un cut.
 ---
 
 # Montage IA v2
 
-## Routage vers les sous-skills
-| Tâche | Skill |
+## Routage — lire le fichier de référence adapté AVANT d'agir
+| Tâche | Fichier |
 |---|---|
-| Dérusher un face-cam (silences, fillers, prises) | `cut-rushes` |
-| Long → clips courts, recadrage 9:16 locuteur actif | `clip-repurpose` |
-| Structure hook/boucle/payoff d'un short | `short-form-retention` |
-| Sous-titres mot à mot animés | `captions-animees` |
-| Langage de mouvement, easing, durées | `motion-direction` |
-| Mise en page, safe areas, multi-format | `composition-cadre` |
-| Montage sur la musique, speed ramps | `beat-sync` |
-| Code Remotion, commandes FFmpeg, exports | `remotion-ffmpeg-pro` |
+| Dérusher un face-cam (silences, fillers, prises) | `reference/cut-rushes.md` |
+| Long → clips courts, recadrage 9:16 locuteur actif | `reference/clip-repurpose.md` |
+| Structure hook/boucle/payoff d'un short | `reference/short-form-retention.md` |
+| Sous-titres mot à mot animés | `reference/captions-animees.md` |
+| Langage de mouvement, easing, durées | `reference/motion-direction.md` |
+| Mise en page, safe areas, multi-format | `reference/composition-cadre.md` |
+| Montage sur la musique, speed ramps | `reference/beat-sync.md` |
+| Code Remotion, commandes FFmpeg, exports | `reference/remotion-ffmpeg-pro.md` |
 
-Ce fichier garde les garde-fous transverses et la philosophie (Murch, cognition, son, étalonnage).
+Plusieurs fichiers peuvent s'appliquer (ex. un short = `short-form-retention` + `captions-animees` + `beat-sync`). Ce fichier garde les garde-fous transverses et la philosophie (Murch, cognition, son, étalonnage).
 
 ## 0. Garde-fous (failles connues de l'IA)
 - **Ne jamais juger le rythme, le jeu ou l'émotion sans voir les frames.** Extraire d'abord :
